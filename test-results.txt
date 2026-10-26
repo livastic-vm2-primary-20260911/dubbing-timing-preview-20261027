@@ -1,0 +1,39 @@
+test_background_length (test_dubbing.DubbingTests.test_background_length) ... ok
+test_bounded_speedup (test_dubbing.DubbingTests.test_bounded_speedup) ... ok
+test_clipping_is_not_silently_saturated (test_dubbing.DubbingTests.test_clipping_is_not_silently_saturated) ... ok
+test_duplicate_id (test_dubbing.DubbingTests.test_duplicate_id) ... ok
+test_equal_window_is_exact (test_dubbing.DubbingTests.test_equal_window_is_exact) ... ok
+test_exact_limit_is_allowed (test_dubbing.DubbingTests.test_exact_limit_is_allowed) ... ok
+test_excessive_speed_policy (test_dubbing.DubbingTests.test_excessive_speed_policy) ... ok
+test_explicit_consent_is_only_a_gate_not_clone_implementation (test_dubbing.DubbingTests.test_explicit_consent_is_only_a_gate_not_clone_implementation) ... ok
+test_extra_audio (test_dubbing.DubbingTests.test_extra_audio) ... ok
+test_extra_protected_term_not_invented (test_dubbing.DubbingTests.test_extra_protected_term_not_invented) ... ok
+test_long_line_is_not_truncated (test_dubbing.DubbingTests.test_long_line_is_not_truncated) ... ok
+test_measured_tempo_overrun_is_rejected (test_dubbing.DubbingTests.test_measured_tempo_overrun_is_rejected) ... ok
+test_missing_audio (test_dubbing.DubbingTests.test_missing_audio) ... ok
+test_missing_translation (test_dubbing.DubbingTests.test_missing_translation) ... ok
+test_mixing_preserves_background_in_all_silent_regions (test_dubbing.DubbingTests.test_mixing_preserves_background_in_all_silent_regions) ... ok
+test_nonfinite_numbers (test_dubbing.DubbingTests.test_nonfinite_numbers) ... ok
+test_outside_source (test_dubbing.DubbingTests.test_outside_source) ... ok
+test_overlapping_windows (test_dubbing.DubbingTests.test_overlapping_windows) ... ok
+test_path_shaped_id (test_dubbing.DubbingTests.test_path_shaped_id) ... ok
+test_pcm_roundtrip (test_dubbing.DubbingTests.test_pcm_roundtrip) ... ok
+test_protected_term_case_change (test_dubbing.DubbingTests.test_protected_term_case_change) ... ok
+test_protected_term_is_not_substring (test_dubbing.DubbingTests.test_protected_term_is_not_substring) ... ok
+test_rights_required (test_dubbing.DubbingTests.test_rights_required) ... ok
+test_short_line_is_not_sped_up (test_dubbing.DubbingTests.test_short_line_is_not_sped_up) ... ok
+test_srt_matches_measured_audio (test_dubbing.DubbingTests.test_srt_matches_measured_audio) ... ok
+test_stock_needs_no_clone_consent (test_dubbing.DubbingTests.test_stock_needs_no_clone_consent) ... ok
+test_subtitle_injection_rejected (test_dubbing.DubbingTests.test_subtitle_injection_rejected) ... ok
+test_timestamp_carry (test_dubbing.DubbingTests.test_timestamp_carry) ... ok
+test_timestamp_hour (test_dubbing.DubbingTests.test_timestamp_hour) ... ok
+test_unconsented_clone_rejected (test_dubbing.DubbingTests.test_unconsented_clone_rejected) ... ok
+test_unknown_voice_mode (test_dubbing.DubbingTests.test_unknown_voice_mode) ... ok
+test_unsorted_windows (test_dubbing.DubbingTests.test_unsorted_windows) ... ok
+test_zero_audio (test_dubbing.DubbingTests.test_zero_audio) ... ok
+test_zero_window (test_dubbing.DubbingTests.test_zero_window) ... ok
+
+----------------------------------------------------------------------
+Ran 34 tests in 0.002s
+
+OK

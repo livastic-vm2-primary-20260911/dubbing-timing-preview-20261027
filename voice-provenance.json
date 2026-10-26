@@ -1,0 +1,20 @@
+{
+  "downloadedUTC": "2026-10-26T16:57:51.568966+00:00",
+  "stockVoice": "es_ES-davefx-medium",
+  "modelCard": "https://huggingface.co/rhasspy/piper-voices/raw/main/es/es_ES/davefx/medium/MODEL_CARD",
+  "datasetLicenseStatedInCard": "CC0",
+  "files": {
+    "es_ES-davefx-medium.onnx.json": {
+      "sha256": "0e0dda87c732f6f38771ff274a6380d9252f327dca77aa2963d5fbdf9ec54842",
+      "bytes": 4817
+    },
+    "es_ES-davefx-medium.onnx": {
+      "sha256": "6658b03b1a6c316ee4c265a9896abc1393353c2d9e1bca7d66c2c442e222a917",
+      "bytes": 63201294
+    },
+    "MODEL_CARD": {
+      "sha256": "420703b5d8ea239b729f13d83f31eea9bae5fcb89447de23ebc94aa8a4768f95",
+      "bytes": 276
+    }
+  }
+}

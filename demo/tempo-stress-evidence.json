@@ -1,0 +1,20 @@
+{
+  "fixture": "Same real stock speech in a deliberately shorter synthetic window; not new source footage",
+  "raw_seconds": 2.7399546485260773,
+  "window_seconds": 2.383,
+  "tempo": 1.1670390131153876,
+  "actual_seconds": 2.3580498866213153,
+  "audio_fully_fits": true,
+  "receipt": [
+    {
+      "id": "stress",
+      "start_frame": 22050,
+      "end_frame": 74045,
+      "window_end_frame": 74595,
+      "actual_start": 1.0,
+      "actual_end": 3.3580498866213153,
+      "start_error_seconds": 0.0,
+      "translation": "El precio sigue en USDC y no se clona ninguna voz."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "rights_confirmed": true,
+  "synthetic": true,
+  "duration": 14.12,
+  "transcript_provenance": "authored script; not ASR",
+  "translation_provenance": "authored English-Spanish fixture; not an automated translation system",
+  "background_provenance": "original generated clean stem, not separation",
+  "protected_terms": [
+    "DemoBrand",
+    "USDC"
+  ],
+  "rows": [
+    {
+      "id": "line-01",
+      "speaker": "stock-narrator",
+      "start": 1.0,
+      "end": 4.455,
+      "original": "DemoBrand keeps the original background music.",
+      "translation": "DemoBrand conserva la música de fondo original."
+    },
+    {
+      "id": "line-02",
+      "speaker": "stock-narrator",
+      "start": 5.205,
+      "end": 8.02,
+      "original": "Each line starts at its original time.",
+      "translation": "Cada frase empieza en su momento original."
+    },
+    {
+      "id": "line-03",
+      "speaker": "stock-narrator",
+      "start": 8.77,
+      "end": 12.87,
+      "original": "The price stays in USDC, and no voice is cloned.",
+      "translation": "El precio sigue en USDC y no se clona ninguna voz."
+    }
+  ]
+}

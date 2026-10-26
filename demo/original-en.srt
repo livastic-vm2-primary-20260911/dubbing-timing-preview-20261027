@@ -1,0 +1,11 @@
+1
+00:00:01,000 --> 00:00:04,305
+DemoBrand keeps the original background music.
+
+2
+00:00:05,205 --> 00:00:07,870
+Each line starts at its original time.
+
+3
+00:00:08,770 --> 00:00:12,720
+The price stays in USDC, and no voice is cloned.

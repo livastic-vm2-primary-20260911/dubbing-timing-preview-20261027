@@ -1,0 +1,1 @@
+Original AI-assisted timing/mixing prototype for Video Dubbing Agent. Not an awarded contract, live listing, ASR evaluation, voice-cloning demonstration, or guarantee of hidden-scenario acceptance. Only licensed stock voice and original synthetic fixtures. No new wallet or spending.

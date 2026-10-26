@@ -1,0 +1,118 @@
+{
+  "synthetic_only": true,
+  "source_separation_implemented": false,
+  "asr_implemented": false,
+  "voice_cloning_implemented": false,
+  "fluent_human_review": false,
+  "stock_voice": "es_ES-davefx-medium",
+  "source_duration": 14.12,
+  "planned_segments": [
+    {
+      "id": "line-01",
+      "speaker": "stock-narrator",
+      "start": 1.0,
+      "window_end": 4.455,
+      "audio_duration": 2.670294784580499,
+      "tempo": 1.0,
+      "planned_end": 3.670294784580499,
+      "original": "DemoBrand keeps the original background music.",
+      "translation": "DemoBrand conserva la música de fondo original."
+    },
+    {
+      "id": "line-02",
+      "speaker": "stock-narrator",
+      "start": 5.205,
+      "window_end": 8.02,
+      "audio_duration": 2.3568253968253967,
+      "tempo": 1.0,
+      "planned_end": 7.561825396825396,
+      "original": "Each line starts at its original time.",
+      "translation": "Cada frase empieza en su momento original."
+    },
+    {
+      "id": "line-03",
+      "speaker": "stock-narrator",
+      "start": 8.77,
+      "window_end": 12.87,
+      "audio_duration": 2.7399546485260773,
+      "tempo": 1.0,
+      "planned_end": 11.509954648526078,
+      "original": "The price stays in USDC, and no voice is cloned.",
+      "translation": "El precio sigue en USDC y no se clona ninguna voz."
+    }
+  ],
+  "rendered_tempo": [
+    {
+      "id": "line-01",
+      "planned_tempo": 1.0,
+      "rendered_tempo": 1.0,
+      "raw_seconds": 2.670294784580499,
+      "fitted_seconds": 2.662358276643991
+    },
+    {
+      "id": "line-02",
+      "planned_tempo": 1.0,
+      "rendered_tempo": 1.0,
+      "raw_seconds": 2.3568253968253967,
+      "fitted_seconds": 2.3568253968253967
+    },
+    {
+      "id": "line-03",
+      "planned_tempo": 1.0,
+      "rendered_tempo": 1.0,
+      "raw_seconds": 2.7399546485260773,
+      "fitted_seconds": 2.7370068027210883
+    }
+  ],
+  "measured_utterances": [
+    {
+      "id": "line-01",
+      "start_frame": 22050,
+      "end_frame": 80755,
+      "window_end_frame": 98233,
+      "actual_start": 1.0,
+      "actual_end": 3.662358276643991,
+      "start_error_seconds": 0.0,
+      "translation": "DemoBrand conserva la música de fondo original."
+    },
+    {
+      "id": "line-02",
+      "start_frame": 114770,
+      "end_frame": 166738,
+      "window_end_frame": 176841,
+      "actual_start": 5.20498866213152,
+      "actual_end": 7.561814058956916,
+      "start_error_seconds": 1.1337868480509883e-05,
+      "translation": "Cada frase empieza en su momento original."
+    },
+    {
+      "id": "line-03",
+      "start_frame": 193378,
+      "end_frame": 253729,
+      "window_end_frame": 283784,
+      "actual_start": 8.769977324263039,
+      "actual_end": 11.506984126984127,
+      "start_error_seconds": 2.2675736961019766e-05,
+      "translation": "El precio sigue en USDC y no se clona ninguna voz."
+    }
+  ],
+  "background_silent_region_exact_match": true,
+  "matched_background_samples": 140322,
+  "background_stem_sha256": "0d133cdb1c2694d21156dd4a3c7bf4970d3dafca18d92c565a21f174b547fe3b",
+  "overlong_line_rejected": "line-01: translated speech requires 1.300x; request a shorter faithful translation, do not truncate",
+  "video": {
+    "en.mp4": {
+      "width": 640,
+      "height": 360,
+      "duration": "14.120000",
+      "sha256": "f1ecc8eafbbb96c201f84286bbefbc7d3f265270e1f13f39b595a605a530d762"
+    },
+    "es.mp4": {
+      "width": 640,
+      "height": 360,
+      "duration": "14.120000",
+      "sha256": "777ec98ba9e5ecb9bd2e7169d174a011ad4ef96897cb008aea97411f61bf1ca1"
+    }
+  },
+  "ffmpeg": "ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers"
+}
